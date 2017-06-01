@@ -1,0 +1,33 @@
+C:\Users\TEMP.TECHLAB.003\Desktop\Lab2\Lab2\bin\Debug\Lab2.exe.config
+C:\Users\TEMP.TECHLAB.003\Desktop\Lab2\Lab2\bin\Debug\Lab2.exe
+C:\Users\TEMP.TECHLAB.003\Desktop\Lab2\Lab2\bin\Debug\Lab2.pdb
+C:\Users\TEMP.TECHLAB.003\Desktop\Lab2\Lab2\obj\Debug\Lab2.csprojResolveAssemblyReference.cache
+C:\Users\TEMP.TECHLAB.003\Desktop\Lab2\Lab2\obj\Debug\Lab2.Form1.resources
+C:\Users\TEMP.TECHLAB.003\Desktop\Lab2\Lab2\obj\Debug\Lab2.Properties.Resources.resources
+C:\Users\TEMP.TECHLAB.003\Desktop\Lab2\Lab2\obj\Debug\Lab2.StudentForm.resources
+C:\Users\TEMP.TECHLAB.003\Desktop\Lab2\Lab2\obj\Debug\Lab2.csproj.GenerateResource.Cache
+C:\Users\TEMP.TECHLAB.003\Desktop\Lab2\Lab2\obj\Debug\Lab2.exe
+C:\Users\TEMP.TECHLAB.003\Desktop\Lab2\Lab2\obj\Debug\Lab2.pdb
+C:\Users\TEMP.TECHLAB.002\Downloads\Lab2\Lab2\Lab2\bin\Debug\Lab2.exe.config
+C:\Users\TEMP.TECHLAB.002\Downloads\Lab2\Lab2\Lab2\obj\Debug\Lab2.exe
+C:\Users\TEMP.TECHLAB.002\Downloads\Lab2\Lab2\Lab2\obj\Debug\Lab2.pdb
+C:\Users\TEMP.TECHLAB.002\Downloads\Lab2\Lab2\Lab2\bin\Debug\Lab2.exe
+C:\Users\TEMP.TECHLAB.002\Downloads\Lab2\Lab2\Lab2\bin\Debug\Lab2.pdb
+C:\Users\TEMP.TECHLAB.002\Downloads\Lab2\Lab2\Lab2\obj\Debug\Lab2.csprojResolveAssemblyReference.cache
+C:\Users\TEMP.TECHLAB.002\Downloads\Lab2\Lab2\Lab2\obj\Debug\Lab2.BookForm.resources
+C:\Users\TEMP.TECHLAB.002\Downloads\Lab2\Lab2\Lab2\obj\Debug\Lab2.Form1.resources
+C:\Users\TEMP.TECHLAB.002\Downloads\Lab2\Lab2\Lab2\obj\Debug\Lab2.Properties.Resources.resources
+C:\Users\TEMP.TECHLAB.002\Downloads\Lab2\Lab2\Lab2\obj\Debug\Lab2.StudentForm.resources
+C:\Users\TEMP.TECHLAB.002\Downloads\Lab2\Lab2\Lab2\obj\Debug\Lab2.csproj.GenerateResource.Cache
+C:\Users\AIMEN.S.A.SASI\Documents\APU WORKS\C#\lab2.workload\lab2.workload\Lab2\bin\Debug\Lab2.exe.config
+C:\Users\AIMEN.S.A.SASI\Documents\APU WORKS\C#\lab2.workload\lab2.workload\Lab2\obj\Debug\Lab2.exe
+C:\Users\AIMEN.S.A.SASI\Documents\APU WORKS\C#\lab2.workload\lab2.workload\Lab2\obj\Debug\Lab2.pdb
+C:\Users\AIMEN.S.A.SASI\Documents\APU WORKS\C#\lab2.workload\lab2.workload\Lab2\bin\Debug\Lab2.exe
+C:\Users\AIMEN.S.A.SASI\Documents\APU WORKS\C#\lab2.workload\lab2.workload\Lab2\bin\Debug\Lab2.pdb
+C:\Users\AIMEN.S.A.SASI\Documents\APU WORKS\C#\lab2.workload\lab2.workload\Lab2\obj\Debug\Lab2.csprojResolveAssemblyReference.cache
+C:\Users\AIMEN.S.A.SASI\Documents\APU WORKS\C#\lab2.workload\lab2.workload\Lab2\obj\Debug\Lab2.BookForm.resources
+C:\Users\AIMEN.S.A.SASI\Documents\APU WORKS\C#\lab2.workload\lab2.workload\Lab2\obj\Debug\Lab2.Form1.resources
+C:\Users\AIMEN.S.A.SASI\Documents\APU WORKS\C#\lab2.workload\lab2.workload\Lab2\obj\Debug\Lab2.Properties.Resources.resources
+C:\Users\AIMEN.S.A.SASI\Documents\APU WORKS\C#\lab2.workload\lab2.workload\Lab2\obj\Debug\Lab2.RunForm.resources
+C:\Users\AIMEN.S.A.SASI\Documents\APU WORKS\C#\lab2.workload\lab2.workload\Lab2\obj\Debug\Lab2.StudentForm.resources
+C:\Users\AIMEN.S.A.SASI\Documents\APU WORKS\C#\lab2.workload\lab2.workload\Lab2\obj\Debug\Lab2.csproj.GenerateResource.Cache
